@@ -1,28 +1,51 @@
-﻿# Chris Jones
+﻿<h1 align="center">Chris Jones</h1>
+<p align="center"><strong>Inventor | Systems Architect | Builder of Security-First Platforms</strong></p>
 
-I build products at the intersection of AI systems, secure infrastructure, and financial analytics.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-black" alt="Focus: Secure Systems" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-black" alt="Focus: AI Infrastructure" />
+  <img src="https://img.shields.io/badge/Focus-Structured%20Finance-black" alt="Focus: Structured Finance" />
+  <img src="https://img.shields.io/badge/IP-Inventor%20Led-black" alt="IP: Inventor Led" />
+</p>
 
-## Focus Areas
-- Multi-agent developer and automation systems
-- Security-first infrastructure and deployment workflows
-- Structured finance analytics and modeling
+I design and build original software systems with defensible architecture, production discipline, and long-horizon commercial value.
 
-## Selected Projects
+My work is centered on three private programs, in this order:
 
-### Rebis Brain Core (Private)
-Production-oriented cognitive infrastructure for developer workflows and autonomous agent operations.
+| Priority | Program | Positioning | Status |
+|---|---|---|---|
+| 1 | Basalt Engine | Core platform and flagship IP portfolio | Private |
+| 2 | Rebis Brain Core | Production cognitive infrastructure for developer and agent workflows | Private |
+| 3 | TPEX Core | Structured finance analytics and contract modeling platform | Private |
 
-### Basalt Engine (Private)
-Security-centric engine and IP portfolio focused on safe, scalable AI-adjacent infrastructure.
+## Basalt Engine
+Basalt is my primary and most advanced systems program. It represents the highest concentration of original architecture, platform depth, and long-term strategic IP.
 
-### TPEX Core (Private)
-Analytics platform for tranche-participated exposure contracts and structured credit workflows.
+Publicly, I discuss Basalt at the capability and product level only.
+
+## Rebis Brain Core
+Rebis is a production-oriented brain infrastructure layer for developer workflows and autonomous operations, with a strong emphasis on secure deployment, policy controls, and operational reliability.
+
+## TPEX Core
+TPEX is a structured finance analytics platform built around original contract and exposure concepts, with software and model design developed together as a single system.
+
+## IP and Patent Strategy
+I am deeply hands-on in IP development, claim structuring, and patent strategy.
+
+My approach is to build:
+- novel system behavior
+- enforceable technical boundaries
+- clean product narratives for enterprise adoption
 
 ## Collaboration
-I work with operators, technical founders, and enterprise partners on product strategy, integration, and deployment.
+I work with enterprise partners, technical operators, and strategic buyers on:
+- platform evaluation
+- integration design
+- commercialization pathways
 
-If you are evaluating partnership opportunities, please connect here on GitHub.
+If you are evaluating partnership or acquisition pathways, reach out through GitHub.
 
-## Notes
-- Public profile intentionally stays high-level.
-- Proprietary implementation details are kept private.
+## Public Profile Policy
+This profile is intentionally high-level.
+
+No trade-secret implementation details, internal security mechanics, or proprietary architecture internals are disclosed here.
