@@ -18,15 +18,15 @@ My consulting engagements are engineering-led: architecture, implementation, sec
 
 | Priority | Program | Public Positioning | Access |
 |---|---|---|---|
-| 1 | Basalt Engine | Primary and most sophisticated platform/IP program | Private |
-| 2 | Rebis Brain Core | Secure cognitive infrastructure for developer and autonomous agent workflows | Private |
+| 1 | Basalt Engine | High-throughput data destruction with cryptographic proof of erasure | Private |
+| 2 | Rebis Brain Core | Encrypted cognition infrastructure for developers and autonomous agent teams | Private |
 | 3 | TPEX Core | Structured finance analytics and contract intelligence architecture | Private |
 
 ## Basalt Engine (Primary Program)
-Basalt is my flagship and deepest technical program, representing the highest concentration of original architecture, platform design, and long-horizon IP value.
+Basalt is my flagship platform — a high-throughput data destruction engine with cryptographic proof of erasure. Hardware-validated across datacenter, desktop, and edge platforms for compliance-critical environments where regulatory proof and performance are non-negotiable.
 
 ## Rebis Brain Core
-Rebis focuses on production-grade memory and reasoning infrastructure that can support both hands-on development workflows and agent-style orchestration patterns.
+Rebis is production-grade cognitive infrastructure for developer workflows and autonomous agent operations. Durable memory, secure handoff, identity enforcement, and orchestration controls — built for teams running real agent operations, not toy demos.
 
 ## TPEX Core (Structured Finance)
 TPEX combines software and financial engineering to model complex contract and exposure behavior in a way that is operationally actionable.
