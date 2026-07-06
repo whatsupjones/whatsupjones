@@ -14,10 +14,10 @@ I build production systems across secure compute, data security, GPU infrastruct
 
 ## Public Technical Work
 
-### [gpu-roofline](https://github.com/whatsupjones/gpu-roofline) â€” Cross-Vendor GPU Performance Analysis
+### [gpu-roofline](https://github.com/whatsupjones/gpu-roofline) - Cross-Vendor GPU Performance Analysis
 Rust-based roofline and sustained-performance analysis across NVIDIA, AMD, and Intel GPUs. Focused on real operating ceilings rather than headline burst numbers, with a portable workflow and no heavyweight vendor toolkit requirement.
 
-`Rust` Â· `GPU analysis` Â· `Performance modeling` Â· `Systems benchmarking`
+`Rust` | `GPU analysis` | `Performance modeling` | `Systems benchmarking`
 
 ---
 
