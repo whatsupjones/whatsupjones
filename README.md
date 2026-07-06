@@ -21,6 +21,22 @@ Rust-based roofline and sustained-performance analysis across NVIDIA, AMD, and I
 
 ---
 
+## Portfolio Map
+
+### [basalt-engine-public](https://github.com/whatsupjones/basalt-engine-public)
+Public overview for Basalt Engine, a bounded-memory destruction and verifiable elimination platform.
+
+### [rebis-brain-core-public](https://github.com/whatsupjones/rebis-brain-core-public)
+Public overview for Rebis Brain Core, an AI infrastructure system for developer workflows and autonomous agent operations.
+
+### [structured-finance-public](https://github.com/whatsupjones/structured-finance-public)
+Public overview for the structured finance platform family spanning TPEX Core and TPEX Life.
+
+### [tpex-core-public](https://github.com/whatsupjones/tpex-core-public)
+Public overview for TPEX Core, a structured product architecture for synthetic private-equity exposure.
+
+---
+
 ## Selected Program Families
 
 ### Basalt Engine
@@ -31,6 +47,12 @@ AI infrastructure for developer workflows and autonomous agent operations, spann
 
 ### Structured Finance Systems
 Proprietary platforms for structured products, risk analytics, transaction workflows, and review-grade financial infrastructure.
+
+---
+
+## Access Model
+
+Public repositories remain overview-only by design. Deeper technical review, validation material, and transfer-grade documentation are handled through controlled private diligence repositories where appropriate.
 
 ---
 
