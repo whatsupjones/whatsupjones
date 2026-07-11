@@ -1,5 +1,5 @@
 <h1 align="center">Chris Jones</h1>
-<p align="center"><strong>Inventor | Systems Architect | Technical Founder</strong></p>
+<p align="center"><strong>Inventor | Technical architect and builder of proprietary software, hardware, secure systems, and physics-driven platforms</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/gpu--roofline-Open%20Source-2ea44f?style=for-the-badge" alt="gpu-roofline" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Structured%20Finance-Platform%20Systems-22543d?style=for-the-badge" alt="Structured Finance" />
 </p>
 
-I build production systems across secure compute, data security, GPU infrastructure, AI tooling, and structured finance. Public repositories here are intentionally curated: enough to show design quality, domain range, and execution discipline without exposing controlled diligence materials or private implementation surfaces.
+I build validation-first systems across secure compute, hardware-aware software, GPU infrastructure, physics-driven architectures, AI tooling, and structured finance. Public repositories here are intentionally curated to show technical range, rigor, and execution discipline without exposing controlled diligence materials, private implementation surfaces, or transaction-sensitive information.
 
 ---
 
@@ -39,6 +39,9 @@ Public overview for TPEX Core, a structured product architecture for synthetic p
 
 ## Selected Program Families
 
+### Physics-Driven Compute Architectures
+Validation-first compute and hardware programs spanning chip architecture, manufacturability analysis, packaging constraints, and systems-level performance framing. Public-facing materials remain deliberately limited.
+
 ### Basalt Engine
 Secure data-destruction and verifiable elimination workflows for compliance-sensitive environments, edge systems, and controlled infrastructure.
 
@@ -58,9 +61,10 @@ Public repositories remain overview-only by design. Deeper technical review, val
 
 ## Working Approach
 
-- Systems first, not slide decks
-- Measured validation over demo theater
+- Architecture and validation before narrative
+- Measured evidence over demo theater
 - Controlled disclosure for diligence-sensitive programs
+- Hardware and software co-design where the problem demands it
 - Rust-forward where correctness, performance, and operational discipline matter
 
 ## Contact
